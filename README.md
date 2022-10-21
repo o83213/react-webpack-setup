@@ -1,5 +1,5 @@
 # react-webpack-setup
-Base set without create react app
+Base setup without create react app
 
 This is a base setup for React project
 It includes TypeScript, Webpack setting without using create react app and create bunch of un-using files and functionalities.
